@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <img src="https://mathila.space/LOGO.png" width="100" height="100" style="border-radius:50%" alt="Mathila Dulsanda Logo" />
+  <img src="https://mathila.space/LOGO.png" width="100" alt="Mathila Dulsanda Logo" />
 </div>
 
 <br/>
