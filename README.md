@@ -8,6 +8,12 @@
 </div>
 
 <div align="center">
+  <img src="https://mathila.space/LOGO.png" width="100" height="100" style="border-radius:50%" alt="Mathila Dulsanda Logo" />
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+fast%2C+modern+web+experiences+%F0%9F%9A%80;Founder+%40+MD+WEBX+%26+MD+GAME+STORE+LK+%F0%9F%8C%90;Supabase+%2B+Cloudflare+%2B+PayHere+integrations;Arduino+%26+IoT+%2B+Web+integration+developer;Clean+code.+Beautiful+interfaces.+Real+impact." />
 </div>
 
