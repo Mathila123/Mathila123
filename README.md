@@ -1,90 +1,104 @@
-<!-- ================= HEADER ================= -->
+<!-- ============================================================
+     MATHILA DULSANDA — GitHub Profile README
+     ============================================================ -->
+
+<!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=Mathila%20Dulsanda&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:1a0533,100:0a0f1e&height=240&section=header&text=Mathila%20Dulsanda&fontSize=46&fontColor=e2d9f3&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Digital%20Builder%20%7C%20Sri%20Lanka&descSize=16&descAlignY=58&descColor=a78bfa"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&color=38BDF8&center=true&vCenter=true&width=700&lines=Frontend+Web+Developer;Founder+%40+MD+WEBX+%26+MD+GAME+STORE+LK;Building+fast%2C+modern+web+experiences;IoT+%2B+Web+Integration+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+fast%2C+modern+web+experiences;Founder+%40+MD+WEBX+%26+MD+GAME+STORE+LK;Supabase+%2B+Cloudflare+%2B+PayHere+integrations;IoT+%2B+Web+systems+developer;Clean+code.+Strong+execution." />
 </p>
 
 ---
 
-## 👋 About Me
-I design and build **fast, scalable, and modern web applications** focused on performance, usability, and clean UI/UX.
+## ⚡ Profile Snapshot
 
-- 💼 Web Developer @ YaluGo (PVT) LTD  
-- ⚡ 4+ years experience | 15+ projects completed  
-- 🎯 Specializing in frontend systems and responsive design  
-- 🔧 Freelance developer building real-world products  
+```ts
+const profile = {
+  role: "Frontend Developer",
+  location: "Sri Lanka",
+  ventures: ["MD WEBX", "MD GAME STORE LK", "YaluGo"],
+  stack: ["HTML", "CSS", "JavaScript", "React", "Supabase", "Cloudflare"],
+  systems: ["Arduino", "ESP32", "Firebase IoT"],
+  focus: "Production-grade web systems + integrations",
+};
+```
 
 ---
 
-## 🚀 Ventures
-- **MD WEBX** → Web development & UI/UX services  
-- **MD GAME STORE LK** → Digital products & game store platform  
-- **MDCLK** → Arduino, Python & electronics learning projects  
+## 🧠 What I Actually Build
+
+- Production web platforms (auth, payments, dashboards)
+- SaaS-style systems for real businesses
+- IoT → Web dashboards (real-time data pipelines)
+- E-commerce + booking systems with backend logic
+- Deployment pipelines (Cloudflare, Vercel, Firebase)
+
+---
+
+## 🏢 Ventures
+
+### MD WEBX
+Web services platform  
+→ Hosting, UI/UX, integrations, client systems  
+→ Supabase + PayHere + Cloudflare architecture
+
+### MD GAME STORE LK
+Digital product ecosystem  
+→ Community + real-time features + Firebase backend
+
+### YaluGo
+Vehicle rental system  
+→ Booking flows, admin panel, storage system
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
-</p>
-
-### ⚙️ Backend & Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,firebase,supabase" />
-</p>
-
-### 🧠 Programming & Hardware
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,arduino" />
-</p>
+Frontend: HTML, CSS, JavaScript, React, Next.js, Tailwind  
+Backend: Supabase, Firebase, Node.js, Cloudflare  
+Hardware: Arduino, ESP32, Python  
+Tools: Git, GitHub, Figma, Vercel, Netlify, VS Code  
 
 ---
 
-## 📌 Featured Projects
-- 🚗 **YaluGo** → Vehicle rental platform  
-- 🏗 **SK Engineering** → Business website  
-- 🎮 **MD GAME STORE LK** → E-commerce platform  
-- 📡 **IoT People Counter** → ESP32 + Firebase system  
-- 🌐 **MD WEBX** → Developer services platform  
+## 🚀 Selected Projects
+
+MD WEBX Platform — PayHere + Supabase + Cloudflare  
+YaluGo — Booking system + admin + storage  
+IoT People Counter — ESP32 + Firebase realtime  
+MD GAME STORE LK — Firebase community system  
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mathila123&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mathila123&theme=tokyonight&hide_border=true" height="160"/>
-</p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mathila123&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mathila123&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathila123&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
 
-## 🎯 Focus Areas
-- High-performance frontend (React / Next.js)
-- Scalable web apps (Node.js / Supabase / Firebase)
-- UI/UX focused development systems
-- IoT + Web integrations (Arduino + dashboards)
+## 🎯 Current Focus
+
+- Scaling MD WEBX into SaaS platform
+- Role-based client dashboard systems
+- Cloudflare + Supabase architecture optimization
+- IoT + web integration expansion
 
 ---
 
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://mathila.web.lk"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://mathila.space"><img src="https://img.shields.io/badge/MD_WEBX-111827?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://linktr.ee/mathiladulsanda"><img src="https://img.shields.io/badge/Linktree-22c55e?style=for-the-badge&logo=linktree&logoColor=white"/></a>
-  <a href="https://buymeacoffee.com/mathila_dulsanda"><img src="https://img.shields.io/badge/Support-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
-</p>
+## 🌐 Links
+
+Portfolio: https://mathila.web.lk  
+MD WEBX: https://mathila.space  
+Support: https://buymeacoffee.com/mathila_dulsanda  
 
 ---
 
-<!-- ================= FOOTER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=120&section=footer"/>
+  <img src="https://komarev.com/ghpvc/?username=Mathila123&color=7c3aed"/>
 </p>
