@@ -27,7 +27,7 @@
 
 ## ⚡ Who I Am
 
-
+```ts
 const mathila = {
   role:      "Web Developer & UI Designer",
   location:  "Colombo, Sri Lanka 🇱🇰",
@@ -38,7 +38,7 @@ const mathila = {
   currently: "Building MD WEBX — a production web services platform",
   fun_fact:  "I integrate IoT sensors with web dashboards for fun 🔧",
 };
-
+```
 
 <br/>
 
